@@ -38,4 +38,8 @@ However, this takes extra memory. So still try to find out a better solution.
 
 Time complexity is O(n) , Space complexity is O(n)
 
+## Better way
+
+XOR — 0 ^ N = N , N ^ N = 0,just all ^ and get answer.
+
 ## 
