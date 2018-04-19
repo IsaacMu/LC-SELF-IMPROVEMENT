@@ -9,3 +9,9 @@
 # BFS
 
 637
+
+# Linked List
+
+26 point as index
+
+80 point and length
