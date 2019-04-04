@@ -16,3 +16,6 @@
 
 80 point and length
 
+# String
+
+need to findout string related function usage
