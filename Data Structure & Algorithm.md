@@ -9,6 +9,8 @@
 
   ![Thread Search Tree](/Users/Isacclee/Documents/Study/se/OUT/Review/Thread Search Tree.png)
 
+## Trie tree
+208
 
 
 # Heap
