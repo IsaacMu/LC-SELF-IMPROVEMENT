@@ -21,3 +21,6 @@
 # String
 
 need to findout string related function usage
+
+# Math
+238
