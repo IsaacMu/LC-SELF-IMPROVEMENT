@@ -15,8 +15,7 @@ def getMaxSubarrayLen(n, team_a, team_b):
             dp[i][1] = max(dp[i-1][1] + 1, dp[i][1])
             ans = max(ans, dp[i][1])
     return ans
-print(getMaxSubarrayLen(3, [2, 7, 3], [4,2,6]))
-print(getMaxSubarrayLen(2, [9, 7], [10,8]))
+
 
     
 
